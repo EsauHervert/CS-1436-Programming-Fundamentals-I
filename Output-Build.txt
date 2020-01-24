@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Inlabs, Configuration: Debug Win32 ------
+1>  Lab5.cpp
+1>c:\users\esau\desktop\cosc 1436\visual studio 2013\projects\consoleapplication1\cosc 1436 labs\lab5.cpp(78): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+1>  ConsoleApplication1.vcxproj -> C:\Users\Esau\Desktop\COSC 1436\Visual Studio 2013\Projects\ConsoleApplication1\COSC 1436 Labs\Debug\Inlabs.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
