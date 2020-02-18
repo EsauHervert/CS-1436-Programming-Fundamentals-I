@@ -20,5 +20,5 @@ Lab 5:
 
 Lab 6:
 
-    Vending Machine
+    Vending Machine (Use all previous knowledge)
     
