@@ -7,12 +7,12 @@
 
 /*
 Implement the all the following as C++ programs for full credit.  Submit only .cpp files only.
-Imagine you are developing a software package that required users to enter their own passwords.   You software requires that usersí passwords meet the follow criteria.
+Imagine you are developing a software package that required users to enter their own passwords.   You software requires that users‚Äô passwords meet the follow criteria.
 	The password should be at least 10 characters long.
 	The password should contain at least one uppercase and at least one lowercase letter.
 	The password should have at least one digit.
-Write a program that asks for a password and then verifies that it meets the states criteria.  If it doesnít, the program should display a message telling the user why it 
-failed.  For example, ìmypasswordsî fails to meet at least one upper case and does not contain a digit.  If it fails to meet more than one criteria it should display all 
+Write a program that asks for a password and then verifies that it meets the states criteria.  If it doesn‚Äôt, the program should display a message telling the user why it 
+failed.  For example, ‚Äúmypasswords‚Äù fails to meet at least one upper case and does not contain a digit.  If it fails to meet more than one criteria it should display all 
 the reasons why it failed.  Name the file passwordXX.cpp
 
 What needs to be done?
