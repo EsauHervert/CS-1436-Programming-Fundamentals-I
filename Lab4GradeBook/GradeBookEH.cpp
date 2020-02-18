@@ -19,7 +19,7 @@ o	The weighted percentage totals for each section.
 o	The weighted grade for each section
 o	The final average
 o	The letter grade.
--	The program should prompt the user if he or she would like to run the program again.  Remember to check for data validation. If you prompt for a Y/N and the user enters in an ‘A’ or lower case y.
+-	The program should prompt the user if he or she would like to run the program again.  Remember to check for data validation. If you prompt for a Y/N and the user enters in an â€˜Aâ€™ or lower case y.
 
 */
 
